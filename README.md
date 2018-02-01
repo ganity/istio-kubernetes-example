@@ -2,7 +2,7 @@
 
 This is a example for istio on kubernetes, Which with two service write in nodejs and python.
 
-the more info about [the project](https://my.oschina.net/ganity/blog/1616866)
+the more info about [the project in 中文](https://my.oschina.net/ganity/blog/1616866)
 
 and the dependents like
 
