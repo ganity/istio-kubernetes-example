@@ -6,7 +6,7 @@ the more info about [the project](https://my.oschina.net/ganity/blog/1616866)
 
 and the dependents like
 
-![应用调用关系](https://static.oschina.net/uploads/img/201802/01134407_Ma0b.png "应用调用关系")]
+![应用调用关系](https://static.oschina.net/uploads/img/201802/01134407_Ma0b.png "应用调用关系")
 
 ## How to use
 
